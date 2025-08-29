@@ -17,8 +17,8 @@
 }
 body {
     font-family: 'Playpen Sans Arabic', sans-serif;
-    /* border: 5px solid black;
-    margin: 10px;     */
+    border: 5px solid black;
+    margin: 10px;    
 }
 .ro{
 animation: spin 20s linear infinite;
